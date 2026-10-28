@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: drop-zone-online
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /

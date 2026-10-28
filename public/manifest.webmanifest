@@ -1,0 +1,15 @@
+{
+  "id": "/",
+  "name": "Drop Zone Online",
+  "short_name": "Drop Zone",
+  "description": "Join friends in a real-time multiplayer arena game.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#10151d",
+  "theme_color": "#10151d",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
